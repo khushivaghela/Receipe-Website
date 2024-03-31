@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+}
+.Ingredients
+{
+    color:black;
+    padding: 20px;
+}
+.Directions
+{
+    padding: 20px;
+    color:black;
+}
+body
+{
+    background-color:antiquewhite;
+}
+.tea
+{
+    background-color: rgb(84, 3, 3);
+   height: 70px;
+   color:antiquewhite;
+}
+#p{
+    padding: 20;
+}
+.img_tea
+{
+    float:right;
+}

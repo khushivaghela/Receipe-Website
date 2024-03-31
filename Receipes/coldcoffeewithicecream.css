@@ -1,0 +1,16 @@
+
+body
+{
+    margin: 0px;
+    background-color :whitesmoke;
+    color: rgb(111, 78, 55);
+    font-family: inherit;
+}
+.img_cold
+{
+    float:right;
+}
+center
+{
+    color: rgb(111, 78, 55);
+}

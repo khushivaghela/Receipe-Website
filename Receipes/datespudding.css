@@ -1,0 +1,30 @@
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #4a1602;
+}
+center
+{
+    color: #fefcfc;
+    font-family: initial;
+}
+body
+{
+    background-color: #fefcfc; ;
+    font-family: inherit;
+    color: #4a1602;
+}
+b
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img_dates
+{
+    float:right;
+}
+center
+{
+  
+    color: #4e1a06;
+    margin: 0px;
+}

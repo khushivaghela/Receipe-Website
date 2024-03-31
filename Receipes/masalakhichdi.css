@@ -1,0 +1,29 @@
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+center
+{
+    color: black;
+    font-family: initial;
+}
+body
+{
+    background-color: rgb(246, 202, 98);
+    font-family: inherit;
+}
+b
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img_khichdi
+{
+    float:right;
+}
+center
+{
+
+    color: black;
+    margin: 0px;
+}

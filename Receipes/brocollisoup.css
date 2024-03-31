@@ -1,0 +1,29 @@
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+center
+{
+    color: black;
+    font-family: initial;
+}
+body
+{
+    background-color: #f9f9f9;
+    font-family: inherit;
+}
+b
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img_soup
+{
+    float:right;
+}
+h1
+{
+
+    color: RGB(106, 168, 79);
+
+}

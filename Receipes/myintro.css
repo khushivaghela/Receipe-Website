@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+}
+body
+{
+    font-family: Calibri, Arial, sans-serif;
+    background-color: rgb(246, 250, 228);
+    font-family: Calibri, Arial, sans-serif;
+}
+.cafe
+{
+    background-color: rgb(248, 226, 252);
+    height: 50px;
+    color:rgb(15, 15, 14);
+    text-align: center;
+    font-family: Calibri, Arial, sans-serif;
+    font-size:xx-large;
+}
+.gpt
+{
+    padding: 10px;   
+}
+.para
+{
+    padding: 10px;
+}
+.img_orange
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_paninisandwich
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_sweetpotatoes
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_brocolisoup
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_chocolatemilk
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_tomatosoup
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_paneer
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_tea
+{
+    border: 0cap;
+    padding: 10px;
+} 
+.img_aloo-tuk
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_bhindi-fry
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_brownie
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_cold
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_honey
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_dates
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_fries
+{
+    border: 0cap;
+    padding: 10px;
+}
+.img_khichdi
+{
+    border: 0cap;
+    padding: 10px;
+}
+
+.p
+{
+    padding:10px;
+}
+.reason
+{
+    padding: 10px;
+}
+.contact
+{
+    padding:30px;
+    font-family: Calibri, Arial, sans-serif;
+    background-color: rgb(12, 12, 12);;label{
+        display:block;
+        margin:1em 0 .2em;
+      }
+      /* single-line text, checkbox, and button */
+      input, select, textarea{
+        display:block;
+        width: 50%;
+        padding:.3em;
+        font-size:20px;
+        background-color:#fbfbfb;
+        border:solid 1px #CCC;
+        resize:vertical;
+      }
+      textarea{
+        min-height:200px;
+        width: 400px;
+      }
+    color:white;
+   
+    h1, h3{
+        text-align: center;
+
+}
+input[type=checkbox]{
+    display:inline;
+    width:auto;
+    color:red;
+  }
+  
+  input[type=submit]{
+    background:lightcoral;
+    margin:1em 0 0;
+    color:white;
+    border:none;
+    border-radius:8px;
+    transition:all .3s ease-out;
+  }
+  input:focus,
+  input:hover,
+  select:focus,
+  select:hover,
+  textarea:focus,
+  textarea:hover{
+    background: lavenderBlush;
+  }
+  
+  /* hover and focus states */
+  input[type=submit]:hover,
+  input[type=submit]:focus{
+    background: lightgreen;
+    outline:none;
+  }
+  
+  @media screen and (min-width:600px) {
+    /*  make the form 2 columns */
+    form:after{
+      content:'';
+      display:block;
+      clear:both;
+    }
+    .column{
+      width:50%;
+      padding:1em;
+      float:left;
+    }
+    .row{
+        padding:1em;
+        float:left;
+      }
+  }
+  
+
+}
+
+
+

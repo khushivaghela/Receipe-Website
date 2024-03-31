@@ -1,0 +1,29 @@
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+center
+{
+    color: black;
+    font-family: initial;
+}
+body
+{
+    background-color: bisque;
+    font-family: inherit;
+}
+b
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img_tomatosoup
+{
+    float:right;
+}
+center
+{
+
+    color: black;
+    margin: 0px;
+}
